@@ -25,9 +25,11 @@ To provide business recommendations for improving Airbnb host quality, pricing, 
 
 ## 📸 Preview
 
-### Host Engagement
-![Screenshot 1](link-to-image)
-
-### Pricing Heatmap
-![Screenshot 2](link-to-image)
-
+### Overview Dashboard
+![Dashboard Overview](s2.png)  
+### Host Profiles
+![Host Profiles](s1.png)  
+### Bad Host Analysis
+![Bad Host Analysis](s3.png)  
+### Recommendations
+![Recommendations](s4.png)  
